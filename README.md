@@ -1,1 +1,1 @@
-# Codehut
+# Simple space invader game
